@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+https://github.com/ionic-team/stencil/blob/master/CHANGELOG.md
+https://github.com/ionic-team/stencil/blob/master/BREAKING_CHANGES.md
 
 ### Compiles and hot-reloads for development
 ```
